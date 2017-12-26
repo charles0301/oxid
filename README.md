@@ -1,48 +1,32 @@
-# NOVALNET PAYMENT MODULE FOR OXID ESHOP 
-NOVALNET payment extension for OXID eShop simplifies your daily work by automating the entire payment process, from checkout till collection. This extension is designed to help you increase your sales by offering various international and local payment methods on a one-page checkout.    
+# NOVALNET PAYMENT MODULE FOR OXID ESHOP
+Novalnet payment module for OXID eShop simplifies your daily work by automating the entire payment process, from checkout till collection. This module is designed to help you increase your sales by offering various payment methods on a one-page checkout. The module which is perfectly adjusted to the OXID eShop shop with top-quality range of services of the payment provider.
 
-The following services are integrated and ready for your use: Debt collection, Risk management, Member management, Subscription management, Fraud management, Affiliate program, Real-time monitoring, detail statistics & report etc. Thus you receive an all-in-one solution: the extension which is perfectly adjusted to OXID eShop and the top-quality range of services of the payment provider Novalnet.
+Novalnet payment module for OXID eShop is available in <b>EN, DE</b>
 
-The payment process is monitored by Novalnet and customized according to the needs of the customer.
+Support is available in: <b> EN, DE, FR, ES, IT, BS, CR, RU, HI, TA</b>
 
-NOVALNET Payment Extension for OXID eShop is available in EN, DE
+Through the individuality and flexibility, you can choose which payment methods and services you need. Get now a seamless integration with the various types of payments and payment-related services integrated in the one unique platform.
 
-Support is available in: EN, DE, FR, ES, IT, BS, CR, RU, HI, TA
-  
-## Advantages
+## Important functions for OXID eShop
+* Seamless and fast integration of the payment module
 * Easy configuration for all payment methods
 * One platform for all relevant payment types and related services
-* More than 40 fraud prevention modules integrated to prevent risk in real-time
-* Effortless  configuration of risk management with fraud prevention and payment method control
+* More than 50 fraud prevention modules integrated to prevent risk in real-time
 * Comprehensive affiliate system with automated split conversion of transaction on revenue sharing
 * Dynamic subscription and member management for recurring payments
-* Status management for chargeback as well as return debit
 * Multilevel claims management with integrated handover to collection and various export functions for the Accounting
 * Automated e-mail notification function concerning payment status reports
-* Clear real-time overview and monitoring of payment status
 * Automated bookkeeping report in XML, SOAP, CSV, MT940
-
-## Key features
-
-* Fast checkout that allows users to save their payment details
-* Seamless and fast integration of the payment extension
-* PCI compliant hosted page
-* Secure SSL- encoded gateways
-* Various type of integration (local form, iFrame, redirection)
-* 3D Secure/Verified by Visa supported
 * All SUPEE secure patches are supported
-* Complete automation of payment processes
-* One page checkout and one click shopping supported
-* Allowed countries customisation
-* Multi-store, multi-currency and multi-accounts supported
-* Proxy server configuration
-* Gateway timeout can be defined
-* Easy way of managing ‘on-hold’ transactions (authorize, cancel or capture) and refunds (partial, full)
-* Smart auto-fill of payment details
-* Free text configuration for the bookings (for use on bank and credit card statements)
-* Responsive templates
-* Creation of new orders and captures
-* Subscription management (suspend, reactivate, cancel) in both OXID eShop store and OXID eShop admin
+* PCI compliant hosted page 
+* No PCI DSS certification required
+* Secure SSL- encoded gateways
+* Easy way of managing ‘on-hold’ transactions (cancel or capture) and refunds (partial, full)
+* Find currently supported payment methods on https://www.novalnet.de/zahlungsabwicklung-und-online-zahlungsabwicklung-mit-der-novalnet-realisieren
+
+## More information
+Find more about OXID eShop module on: https://www.novalnet.de/site_pdf/IG-oxid_4.8.x-4.10.6_and_5.1.x-5.3.6_novalnet_11.1.3.pdf<br>
+To test our demo shop, please visit: https://oxid.novalnet.de
 
 ## Contact
 Novalnet AG<br>
@@ -51,21 +35,11 @@ Gutenbergstr. 2<br>
 85737 Ismaning<br>
 Deutschland<br>
 E-mail: sales@novalnet.de<br>
-Tel: +49 89 - 923 068 320<br>
+Tel: +49 89 9230683-20<br>
 Web: www.novalnet.de
 
+## License
+See our License Agreement at: https://www.novalnet.de/payment-plugins/kostenlos/lizenz
+
 ## About Novalnet AG
-Novalnet is a leading payment institution offering online gateways for processing of online payments.
-Novalnet provides online merchants user-friendly payment modules for all major shop systems as well as
-for self-programmed websites. The product and service portfolio is very comprehensive and includes all
-commonly used payment methods of online payment. These include a variety of intelligent fraud
-prevention modules, free technical support, an automated accounts receivable management system, a
-comprehensive subscription and membership management, as well as a very useful affiliate program. The
-experienced and international team of specialists at Novalnet is committed to support online merchants
-with in-depth knowledge and to work together with them hand in hand to increase their revenue and the
-quality of their online payment.
-Novalnet is accredited by the BaFin as a payment institution. Novalnet meets all the requirements set
-down by this supervisory authority and thus officially offers its merchants, in all areas, a fully legally
-compliant service. This provides the best protection against fraud and swindle for merchants and their
-customers. This official accreditation as a payment institution is a seal of approval which should be a must
-for every online merchant searching for a payment service provider.
+Novalnet AG is a leading financial services institution offering online gateways for processing of online payments. Operating in the market as a full payment service provider, Novalnet AG was founded in Ismaning near Munich, and provides online merchants user-friendly payment modules for all major shop systems as well as for self-programmed websites. The product and service portfolio is very comprehensive and includes all commonly used payment methods of online payment. These include a variety of intelligent fraud prevention modules, free technical support, an automated accounts receivable management system, a comprehensive subscription and membership management, as well as a very useful affiliate program. The experienced and international team of specialists at Novalnet is committed to support online merchants with in-depth knowledge and to work together with them hand in hand to increase their revenue and the quality of their online payments.
