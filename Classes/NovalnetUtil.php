@@ -371,7 +371,7 @@ class NovalnetUtil {
             $aRequest['inputval2'] =  $sReferrenceTwo;
         }
 
-        $aRequest['notify_url'] = !empty($sNotifyURL) ? $sNotifyURL : $this->oConfig->getShopCurrentURL() . 'cl=testcallbackcontroller&fnc=handlerequest';
+        $aRequest['notify_url'] = !empty($sNotifyURL) ? $sNotifyURL : $this->oConfig->getShopCurrentURL() . 'cl=novalnetcallback&fnc=handlerequest';
     }
 
     /**
