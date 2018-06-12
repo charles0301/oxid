@@ -14,7 +14,7 @@
  */
 
 /**
- * Metadata version
+ * Metadata latest version
  */
 $sMetadataVersion = '2.0';
 
