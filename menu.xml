@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-15"?>
-<OX>
-<OXMENU id="Theme">
-   <MAINMENU id="NOVALNET_MENU">
-      <SUBMENU id="NOVALNET_CONFIG_MENU" cl="novalnetadmincontroller"></SUBMENU>
-      <SUBMENU id="NOVALNET_ADMIN_MENU" cl="novalnetadmin"></SUBMENU>
-   </MAINMENU>
-</OXMENU>
-</OX>
