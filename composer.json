@@ -25,8 +25,7 @@
         }
     },
     "require":     {
-        "php": ">=5.6",
-        "novalnet/module-payment" : "1.0.1.x-dev"
+        "php": ">=5.6"
     },
     "autoload":    {
         "psr-4": {
