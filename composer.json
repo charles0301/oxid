@@ -30,7 +30,7 @@
     "autoload":    {
         "psr-4": {
             "oe\\novalnet\\": "../../../source/modules/oe/novalnet"
-        }
+       }
     }
 }
 
