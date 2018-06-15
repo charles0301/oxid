@@ -25,7 +25,7 @@ Through the individuality and flexibility, you can choose which payment methods 
 * Find currently supported payment methods on https://www.novalnet.de/zahlungsabwicklung-und-online-zahlungsabwicklung-mit-der-novalnet-realisieren
 
 ## More information
-Find more about OXID eShop module on: https://www.novalnet.de/site_pdf/IG-oxid_4.8.x-4.10.6_and_5.1.x-5.3.6_novalnet_11.1.3.pdf<br>
+Find more about OXID eShop module on: https://www.novalnet.de/site_pdf/IG-oxid_6.0.2_novalnet_11.2.1.pdf<br>
 To test our demo shop, please visit: https://oxid.novalnet.de
 
 ## Contact
