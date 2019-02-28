@@ -6,7 +6,7 @@
  * that is mentioned with this package in the file Installation_Guide.pdf
  *
  * @author Novalnet <technic@novalnet.de>
- * @copyright Novalnet
+ * @copyright Novalnet AG
  * @license GNU General Public License
  *
  */
