@@ -28,7 +28,7 @@ $aModule = [
                        'en' => 'Novalnet Payment module'
                      ],
     'thumbnail'   => 'icon.png',
-    'version'     => '11.2.1',
+    'version'     => '11.3.0',
     'author'      => 'Novalnet',
     'url'         => 'https://www.novalnet.de',
     'email'       => 'technic@novalnet.de',
