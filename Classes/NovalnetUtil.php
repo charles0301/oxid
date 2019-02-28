@@ -44,7 +44,7 @@ class NovalnetUtil {
      *
      * @var string
      */
-    public $sNovalnetVersion = '11.2.1';
+    public $sNovalnetVersion = '11.3.0';
 
     /**
      * Novalnet module configuration
