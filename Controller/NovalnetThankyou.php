@@ -3,7 +3,7 @@
  * NOTICE OF LICENSE
  *
  * This source file is subject to the GNU General Public License
- * that is bundled with this package in the file license.txt
+ * that is mentioned with this package in the file Installation_Guide.pdf
  *
  * @author Novalnet <technic@novalnet.de>
  * @copyright Novalnet
