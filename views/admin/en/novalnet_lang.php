@@ -204,7 +204,7 @@ $aLang = [
 
     'NOVALNET_ADMIN_MENU'                             => 'Novalnet updates',
     'NOVALNET_ADMIN_MENU_CHECHOUT'                    => 'Check Out What\'s New',
-    'NOVALNET_ADMIN_UPDATE_VERSION'                   => '<h2><b>Novalnet Payment Module V11.2.1</b></h2>',
+    'NOVALNET_ADMIN_UPDATE_VERSION'                   => '<h2><b>Novalnet Payment Module V11.3.0</b></h2>',
     'NOVALNET_ADMIN_CONFIG_PAYMENT_MODULE_UPDATE'                       =>'Thank you for updating to the latest version of Novalnet Payment Modules. This version introduces some great new features and enhancements.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;',
     'NOVALNET_ADMIN_CONFIG_PAYMENT_MODULE_UPDATE_IT'                    =>'We hope you enjoy it!',
     'NOVALNET_ADMIN_CONFIG_PAYMENT_MODULE_UPDATE_KEY'                   =>'Product Activation Key',
