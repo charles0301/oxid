@@ -1,0 +1,34 @@
+{
+    "name":        "novalnet/module-payment",
+    "description": "N/A",
+    "type":        "oxideshop-module",
+    "keywords":    [
+        "oxid",
+        "modules",
+        "eShop",
+        "payment"
+    ],
+    "homepage":    "https://www.novalnet.de",
+    "license":     [
+        "GPL-3.0",
+        "proprietary"
+    ],
+    "authors":     [
+        {
+            "name":  "Novalnet",
+            "email": "technic@novalnet.de"
+        }
+    ],
+    "extra":       {
+        "oxideshop": {
+            "target-directory": "oe/novalnet"
+        }
+    },
+    "autoload":    {
+        "psr-4": {
+            "oe\\novalnet\\": "../../../source/modules/oe/novalnet"
+       }
+    }
+}
+
+
