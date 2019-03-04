@@ -7,7 +7,7 @@
                     <label class="req control-label col-lg-3">&nbsp;</label>
                     <div class="col-lg-9">
 						<input type="hidden" size="20" name="dynvalue[novalnet_paypal_save_card]" value="0">
-                        <input type="checkbox" size="20" name="dynvalue[novalnet_paypal_save_card]" value="1" [{if $dynvalue.novalnet_paypal_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_SAVE_CARD_DATA" }]
+                        <input type="checkbox" size="20" name="dynvalue[novalnet_paypal_save_card]" value="1" [{if $dynvalue.novalnet_paypal_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_PAYPAL_SAVE_CARD_DATA" }]
                     </div>
                </div>
  [{/if}]     
@@ -42,7 +42,7 @@
                     <label class="req control-label col-lg-3">&nbsp;</label>
                     <div class="col-lg-9">
 						<input type="hidden" size="20" name="dynvalue[novalnet_paypal_save_card]" value="0">
-                        <input type="checkbox" size="20" name="dynvalue[novalnet_paypal_save_card]" value="1" [{if $dynvalue.novalnet_paypal_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_SAVE_CARD_DATA" }]
+                        <input type="checkbox" size="20" name="dynvalue[novalnet_paypal_save_card]" value="1" [{if $dynvalue.novalnet_paypal_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_PAYPAL_SAVE_CARD_DATA" }]
                     </div>
          </div>    
  [{/if}]
@@ -52,7 +52,7 @@
 		 [{if $aShoppingDetails.iShopType == '1' && $aPaypalDetails == ''}]		 
 		 <li>
 			<input type="hidden" size="20" name="dynvalue[novalnet_save_card]" value="0">
-            <input type="checkbox" size="20" name="dynvalue[novalnet_save_card]" value="1" id="novalnet_save_card" [{if $dynvalue.novalnet_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_SAVE_CARD_DATA" }]
+            <input type="checkbox" size="20" name="dynvalue[novalnet_save_card]" value="1" id="novalnet_save_card" [{if $dynvalue.novalnet_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_PAYPAL_SAVE_CARD_DATA" }]
           </li>
         [{/if}]
  
@@ -85,7 +85,7 @@
 
             <li class="novalnet_paypal_new_acc">
 						<input type="hidden" size="20" name="dynvalue[novalnet_save_card]" value="0">
-                        <input type="checkbox" size="20" name="dynvalue[novalnet_save_card]" value="1" id="novalnet_save_card" [{if $dynvalue.novalnet_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_SAVE_CARD_DATA" }]
+                        <input type="checkbox" size="20" name="dynvalue[novalnet_save_card]" value="1" id="novalnet_save_card" [{if $dynvalue.novalnet_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_PAYPAL_SAVE_CARD_DATA" }]
             </li>
         [{/if}]
     </ul>
