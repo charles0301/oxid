@@ -89,8 +89,10 @@ $aLang = [
     'NOVALNET_BARZAHLEN_BUTTON'                 		=> 'Pay now with Barzahlen',
     'NOVALNET_PAYMENT_GUARANTEE_COMMENTS'       		=> 'This is processed as a guarantee payment<br>',
     'NOVALNET_REFERENCE_ORDER_NUMBER'           		=> '<br>Reference Order number: ',
-    'NOVALNET_NEXT_CHARGING_DATE'               		=> 'Next charging date: ',
-    'NOVALNET_SAVE_CARD_DATA'                   		=> 'Save my card details for future purchases',
+    'NOVALNET_NEXT_CHARGING_DATE'               		=> 'Next charging date: ',    
+    'NOVALNET_CC_SAVE_CARD_DATA'                   		=> 'Save my card details for future purchases',
+    'NOVALNET_SEPA_SAVE_CARD_DATA'                   	=> 'Save my account details for future purchases',
+    'NOVALNET_PAYPAL_SAVE_CARD_DATA'                   	=> 'Save my PayPal details for future purchases',
     'NOVALNET_SEPA_INVALID_DETAILS'             		=> 'Your account details are invalid',
     'NOVALNET_GUARANTEE_FORCE_DISABLED_MESSAGE' 		=> 'The payment cannot be processed, because the basic requirements haven’t been met',
     
