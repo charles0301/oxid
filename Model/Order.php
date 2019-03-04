@@ -3,7 +3,7 @@
  * NOTICE OF LICENSE
  *
  * This source file is subject to the GNU General Public License
- * that is mentioned with this package in the file Installation_Guide.pdf
+ * that is mentioned with this package in the file Installation_Guide-oxid_6.0.x-6.1.2_novalnet_11.3.0.pdf
  *
  * @author Novalnet <technic@novalnet.de>
  * @copyright Novalnet AG
