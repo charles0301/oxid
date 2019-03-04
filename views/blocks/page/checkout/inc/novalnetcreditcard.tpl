@@ -71,7 +71,7 @@
                 <label class="req control-label col-lg-3">&nbsp;</label>
                 <div class="col-lg-9">
 					<input type="hidden" size="20" name="dynvalue[novalnet_cc_save_card]" value="0">
-                    <input type="checkbox" size="20" name="dynvalue[novalnet_cc_save_card]" value="1" [{if $dynvalue.novalnet_cc_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_SAVE_CARD_DATA" }]
+                    <input type="checkbox" size="20" name="dynvalue[novalnet_cc_save_card]" value="1" [{if $dynvalue.novalnet_cc_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_CC_SAVE_CARD_DATA" }]
                 </div>
             </div>
         [{oxscript include=$oViewConf->getModuleUrl('novalnet', 'out/src/js/novalnetcreditcard.js')}]
@@ -149,7 +149,7 @@
             [{if $aShoppingDetails.iShopType == '1'}]
                 <li class="novalnet_cc_new_acc" [{$displayCCForm}]>
 					<input type="hidden" size="20" name="dynvalue[novalnet_cc_save_card]" value="0">
-                    <input type="checkbox" size="20" name="dynvalue[novalnet_cc_save_card]" value="1" [{if $dynvalue.novalnet_cc_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_SAVE_CARD_DATA" }]
+                    <input type="checkbox" size="20" name="dynvalue[novalnet_cc_save_card]" value="1" [{if $dynvalue.novalnet_cc_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_CC_SAVE_CARD_DATA" }]
                 </li>
             [{/if}]
          </li>
