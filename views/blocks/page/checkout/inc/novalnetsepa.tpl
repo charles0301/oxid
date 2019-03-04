@@ -72,7 +72,7 @@
                     <label class="req control-label col-lg-3">&nbsp;</label>
                     <div class="col-lg-9">
 						<input type="hidden" size="20" name="dynvalue[novalnet_sepa_save_card]" value="0">
-                        <input type="checkbox" size="20" name="dynvalue[novalnet_sepa_save_card]" value="1" [{if $dynvalue.novalnet_sepa_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_SAVE_CARD_DATA" }]
+                        <input type="checkbox" size="20" name="dynvalue[novalnet_sepa_save_card]" value="1" [{if $dynvalue.novalnet_sepa_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_SEPA_SAVE_CARD_DATA" }]
                     </div>
             </div>
             [{/if}]
@@ -161,7 +161,7 @@
                 <li class="novalnet_sepa_new_acc" [{$displaySepaForm}]>
                     <label>&nbsp;</label>
 						<input type="hidden" size="20" name="dynvalue[novalnet_sepa_save_card]" value="0">
-                        <input type="checkbox" size="20" name="dynvalue[novalnet_sepa_save_card]" value="1" [{if $dynvalue.novalnet_sepa_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_SAVE_CARD_DATA" }]
+                        <input type="checkbox" size="20" name="dynvalue[novalnet_sepa_save_card]" value="1" [{if $dynvalue.novalnet_sepa_save_card == 1}]checked="checked"[{/if}]>&nbsp;[{ oxmultilang ident="NOVALNET_SEPA_SAVE_CARD_DATA" }]
                 </li>
             [{/if}]
             <li class="novalnet_sepa_new_acc" [{$displaySepaForm}] style="width:100%;">
