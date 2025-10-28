@@ -1,5 +1,5 @@
 {
-    "name":        "novalnet/oxid6-payment-module",
+    "name":        "chals/oxid6-payment-module",
     "description": "Seamless integration with 150+ payment methods worldwide from Novalnet",
     "type":        "oxideshop-module",
     "keywords":    [
